@@ -14,10 +14,10 @@
 
 ---
 <p>
-    <img src="github_image_1.png" width="50%" height="100%">
-    <img src="github_image_2.png" width="50%" height="100%">
-    <img src="github_image_3.png" width="50%" height="100%">
-    <img src="github_image_4.png" width="50%" height="100%">
+    <img src="github_image_1.png" width="49.5%" height="100%">
+    <img src="github_image_2.png" width="49.5%" height="100%">
+    <img src="github_image_3.png" width="49.5%" height="100%">
+    <img src="github_image_4.png" width="49.5%" height="100%">
 </p>
 
 ## Установка
