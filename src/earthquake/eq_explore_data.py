@@ -5,6 +5,7 @@ from plotly.graph_objs import Layout
 
 
 # Изучение структуры данных.
+# Обозначения метеопараметров см. по адресу https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 filename = '../data/significant_month.json'
 with open(filename) as f:
     all_eq_data = json.load(f)

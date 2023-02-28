@@ -2,6 +2,7 @@ import csv
 from datetime import datetime
 from matplotlib import pyplot as plt
 
+# Обозначения метеопараметров см. по адресу http://rp5.ru/archive.php?wmo_id=27612&lang=ru
 filename = '../data/moskow.01.01.2023.31.01.2023.1.csv'
 
 with open(filename, encoding='utf-8') as csvfile:
