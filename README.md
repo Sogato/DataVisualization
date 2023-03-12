@@ -1,7 +1,7 @@
 # DataVisualization
 
 ---
-В данном репозитории представленные проекты с визуализацией данных из книги Python Crash Cours Эрика Мэтиза.
+В данном репозитории представленные проекты с визуализацией данных из книги Python Crash Course Эрика Мэтиза.
 
 Цель данных проектов изучить библиотеку Plotly для визуализации данных в Python.
 
@@ -14,10 +14,10 @@
 
 ---
 <p>
-    <img src="github_image_1.png" width="49.5%" height="100%">
-    <img src="github_image_2.png" width="49.5%" height="100%">
-    <img src="github_image_3.png" width="49.5%" height="100%">
-    <img src="github_image_4.png" width="49.5%" height="100%">
+    <img src="github_image_1.png" width="48%" height="100%">
+    <img src="github_image_2.png" width="48%" height="100%">
+    <img src="github_image_3.png" width="48%" height="100%">
+    <img src="github_image_4.png" width="48%" height="100%">
 </p>
 
 ## Установка
